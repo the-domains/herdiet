@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HERdiet]]></title>
+        <description><![CDATA[HERdiet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jul 2016 22:33:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0748/3987/files/all_herdiet_bottles-2_grande.jpg?6521711642094099101">]]></description>
+            <link>undefinedaebb8dc1-3e3d-44ac-9bbe-ffc88c1c8879/index.html</link>
+            <guid isPermaLink="false">aebb8dc1-3e3d-44ac-9bbe-ffc88c1c8879</guid>
+            <pubDate>Mon, 25 Jul 2016 22:33:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
